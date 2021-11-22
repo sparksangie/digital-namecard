@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Sparks;Angie;;;
 FN: Angie  Sparks 
-ORG:Chandi Hospitality Group;
-TITLE:Marketing Director
-EMAIL;type=INTERNET;type=WORK;type=pref:asparks@chandihospitality.com
-TEL;type=WORK;type=VOICE:+1 707 305 1006
-item1.ADR;type=WORK;type=pref:;;PO Box 14279 Santa Rosa CA;;;95402;USA
+ORG:Sparks Fly;
+TITLE:Marketer | Leader | Cultivator
+EMAIL;type=INTERNET;type=WORK;type=pref:sparks.angie@gmail.com
+TEL;type=WORK;type=VOICE:+1 805 338 0847
+item1.ADR;type=WORK;type=pref:;;159 Francis Cir Rohnert Park CA;;;94928;USA
 item1.X-ABADR:sg
-item2.URL;type=pref:chandihospitality.com
+item2.URL;type=pref:linkedin.com/in/angiesparks
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
